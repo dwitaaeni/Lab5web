@@ -67,7 +67,7 @@ echo $mobil_kedua->get_warna();
 
 - Maka hasilnya seperti berikut.
 
-![Mobil](img/mobil.png)
+![Mobil](img/mobile.png)
 
 ## Membuat Form (Class Library)
 <p>Class library merupakan pustaka kode program yang dapat digunakan bersama pada beberapa file
